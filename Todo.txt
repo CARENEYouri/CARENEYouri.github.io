@@ -1,0 +1,5 @@
+favicon pour chaque page 
+changer titre de chauqe page 
+epurer contenu ( contact , dessin ,shema , trop de page )
+mettre principale en français et de moi
+remplir contenu ( linkedin, kloodout, autre source git )
